@@ -27,7 +27,7 @@ Apprendre à utiliser **Git**, **GitHub**, et **Markdown**
 
 ## Code
 
-<q> J'crois que j'simp pour Marco et Marcus
+<q> J'crois que j'saigne
  </q> <cite> David, 6767 </cite>
 
 ```javascript
